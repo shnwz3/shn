@@ -20,7 +20,7 @@ body{
     transform: translateY(-50%);
     padding: 20px 40px;
     background: linear-gradient(to top,#ffffffff,#ffffff33)
-    backdrop-filter:blur(8px);
+    backdrop-filter: blur(8px);
     border-radius: 8px;
     box-shadow: 2px 2px 5px #212121;
     z-index: 3;
